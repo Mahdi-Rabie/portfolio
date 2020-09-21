@@ -2,3 +2,21 @@
 body {
    font-family: "Roboto",Arial, Helvetica, sans-serif;
 }
+
+.container {
+   width:70%;
+   margin-left: 15%;
+   margin-right: 15%;
+   background-color: aqua;
+}
+.buttons {
+   padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+   background-color: blue;
+}
+.logo{
+   padding: 200px;
+   background-color: red;
+}
